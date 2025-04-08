@@ -3,7 +3,7 @@
 
 A visually captivating registration form set against a magical forest background with soft movement, ideal for fantasy-themed websites, games, or artistic web applications.
 
-![Preview](screenshot.png)
+![Preview](m.mp4)
 
 ---
 
